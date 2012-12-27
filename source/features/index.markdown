@@ -5,7 +5,7 @@ sharing: true
 footer: true
 ---
 
-Nuestra solución de tiendas esta basada en una plataforma de comercio electrónico llamada <a href="http://spreecommerce.com/" target="_blank">Spree</a>. Dicha plataforma ha sido personalizada y extendida para brindar muchas más funcionalidades.  
+Nuestra solución de tiendas esta orientada a los comercios pequeños que no pueden darse el lujo de pagar un desarrollo a la medida de una tienda de comercio electronico ni tampoco administrar despues su infraestructura. Es por ello que nuestra solucion intenta ser simple en si creación y mantención y aun asi posibilita crear tiendas llamativas y con tantas funcionalidades que harian su experiencia: "Un paseo sin preocupaciones". 
 
 ## Productos
 Con nuestra solución de tiendas, Ud podrá gestionar ágilmente miles de productos.

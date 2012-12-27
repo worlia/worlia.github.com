@@ -1,0 +1,10 @@
+body > header {
+  background: #333;
+  background-image: url(/images/logo.png);
+  background-repeat: no-repeat;
+  background-size: 15%;
+}
+
+article header {
+  padding-top: 0;
+}
