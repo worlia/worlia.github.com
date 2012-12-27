@@ -5,11 +5,10 @@ sharing: true
 footer: true
 ---
 
-Nuestra solución de tiendas esta basada en una plataforma de comercio electrónico llamado 
-<a href="http://spreecommerce.com/" target="_blank">Spree</a> Que ha sido personalizada y extendida para brindar muchas más funcionalidades.  
+Nuestra solución de tiendas esta basada en una plataforma de comercio electrónico llamada <a href="http://spreecommerce.com/" target="_blank">Spree</a>. Dicha plataforma ha sido personalizada y extendida para brindar muchas más funcionalidades.  
 
 ## Productos
-Con nuestra solución de tiendas, Ud podrá gestionar agilmente miles de productos.
+Con nuestra solución de tiendas, Ud podrá gestionar ágilmente miles de productos.
 
 - Variantes - *Los productos pueden manifestarse con distintas variantes. p.e: Talla, color*
 - Prototipos - *Los prototipos ayudan a la creación de productos tipos, aquellos que tienen muchas propiedades en común y solo difieren en valor*
@@ -27,4 +26,4 @@ Sus clientes podran hacer pedidos sobre su catalogo, y con la facilidad de un cl
 - Historia: *Historia*
 
 ## Páginas personalizadas
-Necesita crear paginas personalizadas con contenido propio? No es problema. Puede crear tanta scomo necesite, optimizadas para los buscadores y con urls "amigables" 
+Necesita crear páginas personalizadas con contenido propio? No es problema. Puede crear tanta scomo necesite, optimizadas para los buscadores y con urls "amigables" 
