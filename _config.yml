@@ -4,7 +4,7 @@
 
 url: http://worlia.github.com
 title: Working Liaisons
-subtitle: Hospedaje de tiendas online. Sin preocupaciones
+subtitle: Hospedaje de tiendas online. Sin preocupaciones.
 author: Working Liaisons
 simple_search: http://google.com/search
 description: 
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: worlia
+twitter_user: WorkingLiaisons
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
