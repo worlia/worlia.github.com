@@ -5,7 +5,15 @@ sharing: true
 footer: true
 ---
 
-Nuestra solución de tiendas esta orientada a los comercios pequeños que no pueden darse el lujo de pagar un desarrollo a la medida de una tienda de comercio electronico ni tampoco administrar despues su infraestructura. Es por ello que nuestra solucion intenta ser simple en si creación y mantención y aun asi posibilita crear tiendas llamativas y con tantas funcionalidades que harian su experiencia: "Un paseo sin preocupaciones". 
+Nuestra solución de tiendas esta orientada a comercios pequeños o medianos, que no pueden costearse un desarrollo a la medida de una tienda online, ni tampoco la administración posterior de su infraestructura. Es por ello que nos enfocamos en brindarle:
+
+- Una solucion simple para crear y mantener su catálogo.
+- Diseños llamativos y funcionales para que 'enamore' a sus clientes.
+- Funcionalidades esenciales para potenciar su negocio 
+
+Con todo esto en mente, pretendemos ofrecerle: "Una experiencia sin preocupaciones". 
+
+Le solicitamos se tome un breve tiempo para examinar las principales funcionalidades de nuestra solución. 
 
 ## Productos
 Con nuestra solución de tiendas, Ud podrá gestionar ágilmente miles de productos.
